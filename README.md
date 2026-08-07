@@ -11,5 +11,6 @@ I'm Oliver. I've been writing all kinds of software since about 2020!
 - Very very inactive blog at [my site](https://arrowtsx.dev)
 ## Where you can reach me
 - arrow.tsx [at] gmail
+- o.shrimpton [at] tundras.gg
 - arrow.tsx [on] discord
 ```
